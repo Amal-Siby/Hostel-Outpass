@@ -39,6 +39,7 @@ A full-stack Hostel Outpass Management System built using **HTML**, **CSS**, **J
    cd Hostel-Outpass-System
 2.**Install dependencies**
      npm install
+     
 3.**Start MongoDB** (make sure it’s running)
 
 4.**Run the server**
